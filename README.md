@@ -1,6 +1,6 @@
 ### START PROJECT
 
-- cd to seek-backend  and seek-client
+- cd to seek-backend
 - npm install 
 - npm start 
 - to run a test run npm test
