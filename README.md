@@ -1,9 +1,9 @@
 ### START PROJECT
 
 - cd to seek-backend  and seek-client
-- npm install in both seek-backend and seek client
-- npm start in root of seek-backend and seek-client
-- to run a test in seek-backend run npm test
+- npm install 
+- npm start 
+- to run a test run npm test
 
 - provided together with live url in case it does not work in your machine .
 
@@ -38,10 +38,5 @@
 - price , ads price 
 
 - So everytime they have new requirement , they just only need to update customer preference to meet the requirement . 
-
-### SEEK FRONTEND
-
-- Provide interface for customer to add ads into cart
-- Calculation made through backend , can also be implemented in front end .
 
 ###End
